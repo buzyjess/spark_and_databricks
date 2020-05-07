@@ -9,9 +9,20 @@ Being a Python developer this edition is all in Pyspark or Python based.
 ## Course items
 
 1. Spark Concepts  
-2. Configuring Spark (Version) in Mac as Single node 
+2. Installing Spark in Mac 
+    - Prerequisites
+        - xcode installation 
+        - home brew installation
+        - java installation
+        - scala installation
+
+        
 3. Configuring Spark in Mac in Cluster mode
-4.
+
+
+
+
+
 
 
 
