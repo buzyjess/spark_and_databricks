@@ -9,8 +9,9 @@ Being a Python developer this edition is all in Pyspark or Python based.
 ## Course items
 
 1. Spark Concepts  
-2. Installing Spark in Mac 
-    - Prerequisites
+2. Installing Spark in Mac
+    - [Prerequisites](https://github.com/buzyjess/spark_and_databricks/wiki/Installing-Spark-in-Mac)
+
         - xcode installation 
         - home brew installation
         - java installation
