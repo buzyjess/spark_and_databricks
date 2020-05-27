@@ -32,3 +32,8 @@ Being a Python developer this edition is all in Pyspark or Python based.
 
 Tutorial Videos 
 
+
+References 
+
+[Setting up Python3 on Mac along side Python 2.7 ](https://opensource.com/article/19/5/python-3-default-mac)
+
